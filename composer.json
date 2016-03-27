@@ -1,0 +1,17 @@
+{
+  "name": "pyrello/sox-php",
+  "description": "SoX PHP is a PHP library that wraps the functionality of the Sound eXchange command line utility.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sean Adams-Hiett",
+      "email": "pyrello@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "SoxPhp\\": "SoundExchangePhp/"
+    }
+  }
+}
